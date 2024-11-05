@@ -15,20 +15,28 @@
                     "code": "yarn create next-app project-name"
                 },
                 {
-                    "definition": "নেক্সট জেএস লোকাল ডেভেলপমেন্ট সার্ভার রান করার জন্য",
-                    "code": "npm run dev / yarn dev"
+                    "definition": "একটি ফ্রেশ নেক্সট জেএস প্রজেক্ট কোনো বিদ্যমান ডিরেক্টিরেতে তৈরি করার জন্য (npm)",
+                    "code": "npm create next-app ./"
                 },
                 {
-                    "definition": "নেক্সট জেএস প্রোডাকশন সাইট বিল্ড করার জন্য",
-                    "code": "npm run build / yarn dev"
+                    "definition": "একটি ফ্রেশ নেক্সট জেএস প্রজেক্ট কোনো বিদ্যমান ডিরেক্টিরেতে তৈরি করার জন্য (yarn)",
+                    "code": "yarn create next-app ./"
                 },
                 {
-                    "definition": "নেক্সট জেএস প্রোডাকশন সার্ভার রান করার জন্য",
-                    "code": "npm run start / yarn dev"
+                    "definition": "নেক্সট জেএস লোকাল ডেভেলপমেন্ট সার্ভার রান করার জন্য (npm||yarn)",
+                    "code": "npm run dev || yarn dev"
                 },
                 {
-                    "definition": "নেক্সট জেএস স্ট্যাটিক সাইটের আউটপুট তৈরি করা জন্য",
-                    "code": "npm run export / yarn dev"
+                    "definition": "নেক্সট জেএস প্রোডাকশন সাইট বিল্ড করার জন্য (npm||yarn)",
+                    "code": "npm run build || yarn dev"
+                },
+                {
+                    "definition": "নেক্সট জেএস প্রোডাকশন সার্ভার রান করার জন্য (npm||yarn)",
+                    "code": "npm run start || yarn dev"
+                },
+                {
+                    "definition": "নেক্সট জেএস স্ট্যাটিক সাইটের আউটপুট তৈরি করা জন্য (npm||yarn)",
+                    "code": "npm run export || yarn dev"
                 },
                 {
                     "definition": "নেক্সট জেএস CLI কামান্ড সূমহ দেখার জন্য",
