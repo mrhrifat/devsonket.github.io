@@ -16,19 +16,19 @@
                 },
                 {
                     "definition": "নেক্সট জেএস লোকাল ডেভেলপমেন্ট সার্ভার রান করার জন্য",
-                    "code": "npm run dev"
+                    "code": "npm run dev / yarn dev"
                 },
                 {
                     "definition": "নেক্সট জেএস প্রোডাকশন সাইট বিল্ড করার জন্য",
-                    "code": "npm run build"
+                    "code": "npm run build / yarn dev"
                 },
                 {
                     "definition": "নেক্সট জেএস প্রোডাকশন সার্ভার রান করার জন্য",
-                    "code": "npm run start"
+                    "code": "npm run start / yarn dev"
                 },
                 {
                     "definition": "নেক্সট জেএস স্ট্যাটিক সাইটের আউটপুট তৈরি করা জন্য",
-                    "code": "npm run export"
+                    "code": "npm run export / yarn dev"
                 },
                 {
                     "definition": "নেক্সট জেএস CLI কামান্ড সূমহ দেখার জন্য",
